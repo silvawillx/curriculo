@@ -1,11 +1,11 @@
-#CURRICULO
+# Curriculo  
 Fiz meu curriculo usando html e css, treinamento  pelo curso da  escola DNC.
 Tem algumas informações sobre mim
 
-#tecnologias
+# Tecnologias 
 HTML 
 CSS
 
-##Contatose
+## Contatos
 email: @emersonwillian2020@gmail.com
 instagram: @silvawillx
